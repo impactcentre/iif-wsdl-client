@@ -1,4 +1,4 @@
-Web Service Client
+Web Service Client [![Build Status](https://secure.travis-ci.org/impactcentre/iif-wsdl-client.png?branch=master)](http://travis-ci.org/impactcentre/iif-wsdl-client)
 ------------------
 
 The Web Service Client can be used to test operations of a SOAP Web Service.
